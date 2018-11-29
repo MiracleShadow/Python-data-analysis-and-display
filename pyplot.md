@@ -83,7 +83,7 @@ plt.show()
 ![中文文本效果图1](image/pyplotDemo4.png "效果图")
 
 ```python
-# 将plt.title()替换为：
+# 增加注释：
 plt.annotate(r'$\mu=100$', xy=(2, 1), xytext=(3, 1.5), 
              arrowprops=dict(facecolor='black', shrink=0.1, width=2))
 ```
