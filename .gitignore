@@ -3,3 +3,4 @@
 
 *.js
 *.html
+.ipynb_checkpoints
